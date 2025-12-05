@@ -9,6 +9,6 @@ Features :
   - Data Acquisition: Fetches historical stock price data for multiple assets using a reliable financial data library (e.g., yfinance).
   - Parameter Calculation: Calculates key statistical inputs for the simulation, including daily returns, mean return, and the covariance matrix for the selected assets.
   - Monte Carlo Simulation: Runs a specified number of independent trials to project the portfolio's value over a given time horizon.
-  - Visualization: Generates informative plots of the simulation results, including the projected path fan-out and a histogram of final portfolio values.
+  - Visualization: Generates informative plots of the simulation results, including the projected path fan-out and a histogram of final portfolio compounded return.
 
 This project is currently under active development. Future iterations will incorporate advanced quantitative finance techniques, expanding the simulation capabilities and analysis features.
